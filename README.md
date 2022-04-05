@@ -9,3 +9,4 @@ Menu management app for small restaurants to create and update handsfree menus h
 - Database in MongoDB
 - Account Authentication through Auth0
 - Payment Processing through Stripe
+- CSS Styling with Bootstrap and Tailwind
