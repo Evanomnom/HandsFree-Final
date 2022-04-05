@@ -1,0 +1,48 @@
+{
+  "name": "handfree",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^0.13.0",
+    "@now/node": "^1.6.1",
+    "@stripe/react-stripe-js": "^1.1.2",
+    "@stripe/stripe-js": "^1.8.0",
+    "airtable": "^0.8.1",
+    "assert": "^2.0.0",
+    "axios": "^0.19.2",
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cloudinary": "^1.22.0",
+    "emotion": "^10.0.27",
+    "isomorphic-unfetch": "^3.0.0",
+    "lodash": "^4.17.15",
+    "mongodb": "^3.5.9",
+    "next": "9.4.4",
+    "next-connect": "^0.7.2",
+    "node-fetch": "^2.6.0",
+    "papaparse": "^5.2.0",
+    "qrcode.react": "^1.0.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-id-generator": "^3.0.0",
+    "react-to-print": "^2.9.0",
+    "react-visibility-sensor": "^5.1.1",
+    "stripe": "^8.67.0",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.41",
+    "autoprefixer": "^9.8.4",
+    "babel-plugin-styled-components": "^1.10.7",
+    "postcss-cli": "^7.1.1",
+    "tailwind.macro": "^1.0.0-alpha.10",
+    "tailwindcss": "^1.4.6",
+    "typescript": "^3.9.5"
+  }
+}
